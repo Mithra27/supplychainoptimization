@@ -1,0 +1,45 @@
+Issue Template
+
+Description
+
+[Provide a clear and concise description of the issue or suggestion.]
+
+Steps to Reproduce (for Issues)
+
+1. [List the steps to reproduce the issue, if applicable.]
+
+Expected Behavior (for Issues)
+
+[Describe what you expected to happen.]
+
+Actual Behavior (for Issues)
+
+[Describe what actually happened.]
+
+Screenshots or Additional Information (if applicable)
+
+[Include any screenshots or additional information that might help in understanding the issue.]
+
+Environment
+
+- **Operating System:** [e.g., Windows 10, macOS, Linux]
+- **Python Version:** [e.g., 3.8]
+- **Library Versions (if applicable):**
+  - pandas: [version]
+  - matplotlib: [version]
+  - seaborn: [version]
+  - scikit-learn: [version]
+
+Suggested Solution or Enhancement (for Suggestions)
+
+[If you're suggesting an enhancement, provide your ideas or suggestions.]
+
+Additional Context
+
+[Add any additional context about the issue or suggestion.]
+
+---
+
+We value your feedback! If you encounter any issues or have suggestions for improvement, please open an [issue](link_to_issues) on our GitHub repository.
+
+Thank you for contributing to [supplychainoptimization]!
