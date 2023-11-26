@@ -39,10 +39,6 @@ For detailed usage instructions and examples, refer to the [Usage](#usage) secti
 
 To analyze your supply chain data, upload your dataset using the `get_data()` function, and run the script. Follow the prompts to explore basic dataset information, visualize key relationships, and conduct predictive analysis.
 
-```python
-# Example Usage
-python supply_chain_script.py
-```
 
 For more details on customization and advanced usage, refer to the [Usage](#usage) section in the script.
 
@@ -58,9 +54,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 - The project extends its appreciation to contributors and users for their valuable feedback and support.
 
-For any questions or support, please [open an issue](https://github.com/yourusername/supply-chain-optimization/issues).
+For any questions or support, please [open an issue](https://github.com/Mithra27/supply-chain-optimization/issues).
 
 Enjoy optimizing your supply chain with this powerful Python script!
 ```
 
-Remember to replace placeholders such as `yourusername` with your actual GitHub username and customize the content as needed. Additionally, you may want to include a `CONTRIBUTING.md` file for more detailed contribution guidelines.
