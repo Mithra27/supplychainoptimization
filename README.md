@@ -54,7 +54,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 - The project extends its appreciation to contributors and users for their valuable feedback and support.
 
-For any questions or support, please [open an issue](https://github.com/Mithra27/supply-chain-optimization/issues).
+For any questions or support, please [issue](https://github.com/Mithra27/supply-chain-optimization/issues).
 
 Enjoy optimizing your supply chain with this powerful Python script!
 ```
