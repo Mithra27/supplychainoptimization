@@ -1,0 +1,49 @@
+Certainly! Below is a simple template for a CONTRIBUTING.md file that you can use as a starting point for your project. Customize it based on your project's specific guidelines and requirements.
+
+```markdown
+# Contributing to [supplychainoptimization]
+
+Thank you for your interest in contributing to [Your Project Name]! We appreciate your help in making this project better.
+
+# Getting Started
+
+Before you start contributing, please take a moment to read our [Code of Conduct](CODE_OF_CONDUCT.md).
+
+If you're new to contributing to open source projects, you might find our [Guide for New Contributors](CONTRIBUTING_NEW.md) helpful.
+
+# How to Contribute
+
+1. Fork the repository to your GitHub account.
+2. Clone the forked repository to your local machine.
+  
+   git clone https://github.com/mithra27/supplychainoptimization.git
+ 
+3. Create a new branch for your changes.
+ 
+   git checkout -b feature/your-feature
+
+4. Make your changes and test them thoroughly.
+5. Commit your changes with a descriptive commit message.
+   
+   git commit -m "Add a concise commit message"
+  
+6. Push your changes to your fork on GitHub.
+ 
+   git push origin feature/your-feature
+
+7. Open a pull request (PR) in our repository. Be sure to provide a clear description of your changes.
+
+# Code Style
+
+We follow a specific coding style in our project. Please make sure your code adheres to our style guidelines. Refer to our [Code Style Guide](CODE_STYLE_GUIDE.md) for details.
+
+## Reporting Issues
+
+If you encounter any issues or have suggestions for improvement, please [open an issue](https://github.com/mithra27/supplychainoptimization/issues).
+
+## License
+
+By contributing to [Your Project Name], you agree that your contributions will be licensed under the [MIT License](LICENSE).
+
+Thank you for contributing!
+
